@@ -86,7 +86,7 @@ function App() {
     alignItems:'flex-start',
     backgroundColor:'#444',
     flexDirection:'column',
-    window:260
+    width:260
   }
   const cssTelaOp={
     fontSize:25,
